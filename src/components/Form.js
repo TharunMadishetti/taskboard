@@ -57,7 +57,6 @@ const uischema = {
 
 export default function Form({addNewTask}) {
   const [data, setData] = useState({});
-  const [msg,setMsg] = useState("");
   const handleSubmit = (event) => {
     event.preventDefault();
     if(data.title === "" || !data.due_date || data.priority === "")
@@ -68,7 +67,7 @@ export default function Form({addNewTask}) {
     addNewTask(data);
     console.log(data);
   };
-
+  
   return (
     <div className='flex flex-col justify-center items-center p-4'>
       <form onSubmit={handleSubmit} className="w-full max-w-lg rounded px-8 pt-6 pb-8 mb-4 font-semibold">

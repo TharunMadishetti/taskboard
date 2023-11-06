@@ -8,7 +8,7 @@ export default function App(){
     {
       title:"complete fn7 assignement",
       description:"To-Do Application with a Radical Twist!",
-      due_date:"06-11-2023",
+      due_date:"2023-11-06",
       priority:"High",
       id:1,
     }]);
