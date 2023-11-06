@@ -1,5 +1,11 @@
 # taskboard
- solution for effortlessly managing tasks, keeping your to-do list organized, and staying on top of your daily goals. This sleek and user-friendly application is built with React and enhanced with React-Toastify to provide an intuitive and efficient task management experience.
+Solution for effortlessly managing tasks, keeping your to-do list organized, and staying on top of your daily goals. This sleek and user-friendly application is built with React and enhanced with React-Toastify to provide an intuitive and efficient task management experience.
+
+# Overview
+![todoapp](https://github.com/TharunMadishetti/taskboard/assets/91481732/419e3ee3-129e-4f58-8dbd-f35019aea3c3)
+
+
+ 
  # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
